@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<p align="left"> <a href="https://twitter.com/space520338945" target="blank"><img src="https://img.shields.io/twitter/follow/space520338945?logo=twitter&style=for-the-badge" alt="space520338945" /></a> </p>
+I am a Chinese high school student.
+
+<p align="left"> <a href="https://twitter.com/space520338945" target="blank"><img src="https://img.shields.io/twitter/follow/space520338945?logo=twitter&style=for-the-badge" alt="space520338945" /><img src="https://komarev.com/ghpvc/?username=god-2077&label=Profile%20views&color=0e75b6&style=flat" alt="god-2077" /> </p>
 
 - 📝 My blog is [https://buasis.eu.org](https://buasis.eu.org)
 
