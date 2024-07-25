@@ -20,6 +20,10 @@ I am a Chinese high school student.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=god-2077&show_icons=true&locale=en&layout=compact" alt="god-2077" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=god-2077&show_icons=true&theme=dark&locale=en" alt="god-2077" /></p>
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=god-2077&" alt="god-2077" /></p>
+
+<br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=god-2077&show_icons=true&theme=dark&locale=en" alt="god-2077" /></p>
