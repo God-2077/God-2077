@@ -11,10 +11,11 @@ I am a Chinese high school student.
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/space520338945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="space520338945" height="30" width="40" /></a>
 <a href="/https://buasis.eu.org/rss2.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://buasis.eu.org/rss2.xml" height="30" width="40" /></a>
 </p>
+<center>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=god-2077&show_icons=true&locale=en&layout=compact&theme=dark)
 
@@ -24,6 +25,6 @@ I am a Chinese high school student.
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=god-2077&show_icons=true&theme=dark&locale=en" alt="god-2077" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=god-2077&show_icons=true&theme=dark&locale=en)
+</center>
