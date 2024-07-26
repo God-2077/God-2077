@@ -20,7 +20,7 @@ I am a Chinese high school student.
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=god-2077)
+![](https://github-readme-streak-stats.herokuapp.com/?user=god-2077&theme=dark)
 
 <br>
 
