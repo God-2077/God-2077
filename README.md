@@ -12,13 +12,10 @@ I am a Chinese high school student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/space520338945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="space520338945" height="30" width="40" /></a>
-<a href="/https://buasis.eu.org/rss2.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://buasis.eu.org/rss2.xml" height="30" width="40" /></a>
-</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=God-2077&theme=tokyonight)
+Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=God-2077&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=God-2077&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=God-2077&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=God-2077&theme=tokyonight&utcOffset=8)
-
+[![](https://raw.githubusercontent.com/God-2077/God-2077/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/God-2077/God-2077/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/God-2077/God-2077/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/God-2077/God-2077/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/God-2077/God-2077/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
