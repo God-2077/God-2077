@@ -15,7 +15,7 @@ I am a Chinese high school student.
 
 Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 
-## 📋博客最近更新
+## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
 - 👹 [Posts: 转载，为什么我们总是在等别人主动？](https://buasis.eu.org/2024/08/04/posts-zhuan-zai-wei-shi-me-wo-men-zong-shi-zai-deng-bie-ren-zhu-dong/) 
