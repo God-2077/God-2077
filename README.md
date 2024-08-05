@@ -18,21 +18,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [Posts: 转载，为什么我们总是在等别人主动？](https://buasis.eu.org/2024/08/04/posts-zhuan-zai-wei-shi-me-wo-men-zong-shi-zai-deng-bie-ren-zhu-dong/) 
+- 👹 [碎碎念: 2024-08-04](https://buasis.eu.org/2024/08/04/sui-sui-nian-2024-08-04/) 
 
-- 🕯 [Posts: 天官赐福，百无禁忌](https://buasis.eu.org/2024/07/30/posts-tian-guan-si-fu-bai-wu-jin-ji/) 
+- 🕯 [Posts: 转载，为什么我们总是在等别人主动？](https://buasis.eu.org/2024/08/04/posts-zhuan-zai-wei-shi-me-wo-men-zong-shi-zai-deng-bie-ren-zhu-dong/) 
 
-- 🧑‍🏫 [便笺: 2024-07-22 归档页面修改](https://buasis.eu.org/2024/07/21/bian-jian-2024-07-21-gui-dang-ye-mian-xiu-gai/) 
+- 🧑‍🏫 [Posts: 天官赐福，百无禁忌](https://buasis.eu.org/2024/07/30/posts-tian-guan-si-fu-bai-wu-jin-ji/) 
 
-- 🤩 [碎碎念: 2024-07-21](https://buasis.eu.org/2024/07/21/sui-sui-nian-2024-07-21/) 
+- 🤩 [便笺: 2024-07-22 归档页面修改](https://buasis.eu.org/2024/07/21/bian-jian-2024-07-21-gui-dang-ye-mian-xiu-gai/) 
 
-- 😺 [Posts: Hexo Volantis主题副标题以打字效果输出 Hitokoto](https://buasis.eu.org/2024/07/21/posts-hexo-volantis-zhu-ti-fu-biao-ti-yi-da-zi-xiao-guo-shu-chu-hitokoto/) 
+- 😺 [碎碎念: 2024-07-21](https://buasis.eu.org/2024/07/21/sui-sui-nian-2024-07-21/) 
 
-- 🐲 [Posts: 打字机效果的 Hitokoto（html+css+js）](https://buasis.eu.org/2024/07/19/posts-da-zi-ji-xiao-guo-de-hitokoto-html-css-js/) 
+- 🐲 [Posts: Hexo Volantis主题副标题以打字效果输出 Hitokoto](https://buasis.eu.org/2024/07/21/posts-hexo-volantis-zhu-ti-fu-biao-ti-yi-da-zi-xiao-guo-shu-chu-hitokoto/) 
 
-- 🦆 [Posts: 网易云音乐歌单批连下载歌曲（python）](https://buasis.eu.org/2024/07/19/posts-wang-yi-yun-yin-le-ge-dan-pi-lian-xia-zai-ge-qu-python/) 
+- 🦆 [Posts: 打字机效果的 Hitokoto（html+css+js）](https://buasis.eu.org/2024/07/19/posts-da-zi-ji-xiao-guo-de-hitokoto-html-css-js/) 
 
-- 🎉 [Posts: Hexo Volantis主题音乐播放器Aplayer适应暗黑模式并能跟随变化](https://buasis.eu.org/2024/07/17/posts-hexo-volantis-zhu-ti-yin-le-bo-fang-qi-aplayer-gua-ying-an-hei-mo-shi-bing-neng-gen-sui-bian-hua/) 
+- 🎉 [Posts: 网易云音乐歌单批连下载歌曲（python）](https://buasis.eu.org/2024/07/19/posts-wang-yi-yun-yin-le-ge-dan-pi-lian-xia-zai-ge-qu-python/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/God-2077)
