@@ -35,6 +35,9 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 - 🎉 [碎碎念: 2024-08-04](https://buasis.eu.org/2024/08/04/sui-sui-nian-2024-08-04/) 
 <!-- BLOG-POST-LIST:END -->
 
+## GitHub Profile Card
+
+[![](https://god-2077.buasis.eu.org/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/God-2077)
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/God-2077)
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/God-2077) [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/God-2077)
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/God-2077) [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/God-2077)
