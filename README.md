@@ -18,21 +18,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 2024-08-06 梦](https://buasis.eu.org/2024/08/06/ssn/sui-sui-nian-2024-08-06-meng/) 
+- 👹 [Posts: ArtPlayer 播放器的简单使用](https://buasis.eu.org/2024/08/11/posts-artplayer-bo-fang-qi-de-jian-dan-shi-yong/) 
 
-- 🕯 [碎碎念: 2424-08-06](https://buasis.eu.org/2024/08/06/ssn/sui-sui-nian-2424-08-06/) 
+- 🕯 [碎碎念: 2024-08-11](https://buasis.eu.org/2024/08/11/sui-sui-nian-2024-08-11/) 
 
-- 🧑‍🏫 [便笺: 期末考试，一些人的成绩](https://buasis.eu.org/2024/08/05/bj/bian-jian-qi-mo-kao-shi-yi-xie-ren-de-cheng-ji/) 
+- 🧑‍🏫 [Posts: 好看的二次元图片分享](https://buasis.eu.org/2024/08/10/posts-hao-kan-de-er-ci-yuan-tu-pian-fen-xiang/) 
 
-- 🤩 [碎碎念: 2024-08-04](https://buasis.eu.org/2024/08/04/ssn/sui-sui-nian-2024-08-04/) 
+- 🤩 [碎碎念: 2024-08-08](https://buasis.eu.org/2024/08/08/sui-sui-nian-2024-08-08/) 
 
-- 😺 [Posts: 转载，为什么我们总是在等别人主动？](https://buasis.eu.org/2024/08/04/posts/posts-zhuan-zai-wei-shi-me-wo-men-zong-shi-zai-deng-bie-ren-zhu-dong/) 
+- 😺 [碎碎念: 2024-08-06 梦](https://buasis.eu.org/2024/08/06/sui-sui-nian-2024-08-06-meng/) 
 
-- 🐲 [Posts: 天官赐福，百无禁忌](https://buasis.eu.org/2024/07/30/posts/posts-tian-guan-si-fu-bai-wu-jin-ji/) 
+- 🐲 [碎碎念: 2024-08-06](https://buasis.eu.org/2024/08/06/sui-sui-nian-2424-08-06/) 
 
-- 🦆 [便笺: 2024-07-22 归档页面修改](https://buasis.eu.org/2024/07/21/bj/bian-jian-2024-07-21-gui-dang-ye-mian-xiu-gai/) 
+- 🦆 [便笺: 期末考试，一些人的成绩](https://buasis.eu.org/2024/08/05/bian-jian-qi-mo-kao-shi-yi-xie-ren-de-cheng-ji/) 
 
-- 🎉 [碎碎念: 2024-07-21](https://buasis.eu.org/2024/07/21/ssn/sui-sui-nian-2024-07-21/) 
+- 🎉 [碎碎念: 2024-08-04](https://buasis.eu.org/2024/08/04/sui-sui-nian-2024-08-04/) 
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/God-2077)
