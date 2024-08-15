@@ -3,6 +3,7 @@
 I am a Chinese high school student.
 
 >Currently familiar but not proficient in the following skills(目前熟悉但完全不精通于以下技能):
+>
 >Python,HTML,JavaScript,CSS
 
 
