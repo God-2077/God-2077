@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 2024-08-22](https://buasis.eu.org/2024/08/22/sui-sui-nian-2024-08-22/) 
+- 👹 [碎碎念: 2024-08-26](https://buasis.eu.org/2024/08/26/sui-sui-nian-2024-08-26-1/) 
 
-- 🕯 [碎碎念: 2024-08-18](https://buasis.eu.org/2024/08/17/sui-sui-nian-2024-08-18/) 
+- 🕯 [碎碎念: 2024-08-22](https://buasis.eu.org/2024/08/22/sui-sui-nian-2024-08-22/) 
 
-- 🧑‍🏫 [Posts: 使用 Decap CMS 作为 Hexo 后端以实现在线编辑（保姆级教程）](https://buasis.eu.org/2024/08/16/posts-shi-yong-decap-cms-zuo-wei-hexo-hou-duan-yi-shi-xian-zai-xian-bian-ji-bao-mu-ji-jiao-cheng/) 
+- 🧑‍🏫 [碎碎念: 2024-08-18](https://buasis.eu.org/2024/08/17/sui-sui-nian-2024-08-18/) 
 
-- 🤩 [Posts: ArtPlayer 播放器的简单使用](https://buasis.eu.org/2024/08/11/posts-artplayer-bo-fang-qi-de-jian-dan-shi-yong/) 
+- 🤩 [Posts: 使用 Decap CMS 作为 Hexo 后端以实现在线编辑（保姆级教程）](https://buasis.eu.org/2024/08/16/posts-shi-yong-decap-cms-zuo-wei-hexo-hou-duan-yi-shi-xian-zai-xian-bian-ji-bao-mu-ji-jiao-cheng/) 
 
-- 😺 [碎碎念: 2024-08-11](https://buasis.eu.org/2024/08/11/sui-sui-nian-2024-08-11/) 
+- 😺 [Posts: ArtPlayer 播放器的简单使用](https://buasis.eu.org/2024/08/11/posts-artplayer-bo-fang-qi-de-jian-dan-shi-yong/) 
 
-- 🐲 [Posts: 好看的二次元图片分享](https://buasis.eu.org/2024/08/10/posts-hao-kan-de-er-ci-yuan-tu-pian-fen-xiang/) 
+- 🐲 [碎碎念: 2024-08-11](https://buasis.eu.org/2024/08/11/sui-sui-nian-2024-08-11/) 
 
-- 🦆 [碎碎念: 2024-08-08](https://buasis.eu.org/2024/08/08/sui-sui-nian-2024-08-08/) 
+- 🦆 [Posts: 好看的二次元图片分享](https://buasis.eu.org/2024/08/10/posts-hao-kan-de-er-ci-yuan-tu-pian-fen-xiang/) 
 
-- 🎉 [碎碎念: 2024-08-06 梦](https://buasis.eu.org/2024/08/06/sui-sui-nian-2024-08-06-meng/) 
+- 🎉 [碎碎念: 2024-08-08](https://buasis.eu.org/2024/08/08/sui-sui-nian-2024-08-08/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
