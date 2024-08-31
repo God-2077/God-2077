@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 2024-08-29 谁动我歌单？](https://buasis.eu.org/2024/08/29/sui-sui-nian-2024-08-29-shui-dong-wo-ge-dan/) 
+- 👹 [Posts: 关于本站](https://buasis.eu.org/2024/08/31/posts-guan-yu-ben-zhan/) 
 
-- 🕯 [碎碎念: 2024-08-29 我抑郁症？](https://buasis.eu.org/2024/08/28/sui-sui-nian-2024-08-29-wo-yi-yu-zheng/) 
+- 🕯 [碎碎念: 2024-08-29 谁动我歌单？](https://buasis.eu.org/2024/08/29/sui-sui-nian-2024-08-29-shui-dong-wo-ge-dan/) 
 
-- 🧑‍🏫 [碎碎念: 2024-08-29](https://buasis.eu.org/2024/08/28/sui-sui-nian-2024-08-29/) 
+- 🧑‍🏫 [碎碎念: 2024-08-29 我抑郁症？](https://buasis.eu.org/2024/08/28/sui-sui-nian-2024-08-29-wo-yi-yu-zheng/) 
 
-- 🤩 [Posts: 将 Umami Cloud 数据导出迁入到自搭建的 Umami](https://buasis.eu.org/2024/08/28/posts-jiang-umami-cloud-shu-ju-dao-chu-qian-ru-dao-zi-da-jian-de-umami/) 
+- 🤩 [碎碎念: 2024-08-29](https://buasis.eu.org/2024/08/28/sui-sui-nian-2024-08-29/) 
 
-- 😺 [碎碎念: 2024-08-26](https://buasis.eu.org/2024/08/26/sui-sui-nian-2024-08-26/) 
+- 😺 [Posts: 将 Umami Cloud 数据导出迁入到自搭建的 Umami](https://buasis.eu.org/2024/08/28/posts-jiang-umami-cloud-shu-ju-dao-chu-qian-ru-dao-zi-da-jian-de-umami/) 
 
-- 🐲 [碎碎念: 2024-08-22](https://buasis.eu.org/2024/08/22/sui-sui-nian-2024-08-22/) 
+- 🐲 [碎碎念: 2024-08-26](https://buasis.eu.org/2024/08/26/sui-sui-nian-2024-08-26/) 
 
-- 🦆 [碎碎念: 2024-08-18](https://buasis.eu.org/2024/08/17/sui-sui-nian-2024-08-18/) 
+- 🦆 [碎碎念: 2024-08-22](https://buasis.eu.org/2024/08/22/sui-sui-nian-2024-08-22/) 
 
-- 🎉 [Posts: 使用 Decap CMS 作为 Hexo 后端以实现在线编辑（保姆级教程）](https://buasis.eu.org/2024/08/16/posts-shi-yong-decap-cms-zuo-wei-hexo-hou-duan-yi-shi-xian-zai-xian-bian-ji-bao-mu-ji-jiao-cheng/) 
+- 🎉 [碎碎念: 2024-08-18](https://buasis.eu.org/2024/08/17/sui-sui-nian-2024-08-18/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
