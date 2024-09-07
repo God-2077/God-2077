@@ -23,7 +23,7 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [Posts: 关于本站](https://buasis.eu.org/2024/08/31/posts-guan-yu-ben-zhan/) 
+- 👹 [碎碎念: 2024-09-01](https://buasis.eu.org/2024/09/06/sui-sui-nian-2024-09-01/) 
 
 - 🕯 [碎碎念: 2024-08-29 谁动我歌单？](https://buasis.eu.org/2024/08/29/sui-sui-nian-2024-08-29-shui-dong-wo-ge-dan/) 
 
