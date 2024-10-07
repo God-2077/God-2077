@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 2024-10-05](https://buasis.eu.org/2024/10/05/sui-sui-nian-2024-10-05/) 
+- 👹 [碎碎念: 2024-09-29](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-29/) 
 
-- 🕯 [碎碎念: 2024-10-03 喝上了芋泥啵啵奶绿](https://buasis.eu.org/2024/10/03/sui-sui-nian-2024-10-03-he-shang-liao-yu-ni-bo-bo-nai-lu/) 
+- 🕯 [碎碎念: 2024-09-24](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-24/) 
 
-- 🧑‍🏫 [碎碎念: 2024-10-03 愿世界永无战事](https://buasis.eu.org/2024/10/02/sui-sui-nian-2024-10-03-yuan-shi-jie-yong-wu-zhan-shi/) 
+- 🧑‍🏫 [碎碎念: 2024-09-23](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-23/) 
 
-- 🤩 [碎碎念: 2024-09-15](https://buasis.eu.org/2024/09/15/sui-sui-nian-2024-09-15/) 
+- 🤩 [碎碎念: 2024-10-05](https://buasis.eu.org/2024/10/05/sui-sui-nian-2024-10-05/) 
 
-- 😺 [碎碎念: 2024-09-01](https://buasis.eu.org/2024/09/06/sui-sui-nian-2024-09-01/) 
+- 😺 [碎碎念: 2024-10-03 喝上了芋泥啵啵奶绿](https://buasis.eu.org/2024/10/03/sui-sui-nian-2024-10-03-he-shang-liao-yu-ni-bo-bo-nai-lu/) 
 
-- 🐲 [碎碎念: 2024-08-29 谁动我歌单？](https://buasis.eu.org/2024/08/29/sui-sui-nian-2024-08-29-shui-dong-wo-ge-dan/) 
+- 🐲 [碎碎念: 2024-10-03 愿世界永无战事](https://buasis.eu.org/2024/10/02/sui-sui-nian-2024-10-03-yuan-shi-jie-yong-wu-zhan-shi/) 
 
-- 🦆 [碎碎念: 2024-08-29 我抑郁症？](https://buasis.eu.org/2024/08/28/sui-sui-nian-2024-08-29-wo-yi-yu-zheng/) 
+- 🦆 [碎碎念: 2024-09-15](https://buasis.eu.org/2024/09/15/sui-sui-nian-2024-09-15/) 
 
-- 🎉 [碎碎念: 2024-08-29](https://buasis.eu.org/2024/08/28/sui-sui-nian-2024-08-29/) 
+- 🎉 [碎碎念: 2024-09-01](https://buasis.eu.org/2024/09/06/sui-sui-nian-2024-09-01/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
