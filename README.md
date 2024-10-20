@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 2024-09-29](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-29/) 
+- 👹 [碎碎念: 2024-10-8 至 2024-10-18](https://buasis.eu.org/2024/10/19/sui-sui-nian-2024-10-8-zhi-2024-10-18/) 
 
-- 🕯 [碎碎念: 2024-09-24](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-24/) 
+- 🕯 [碎碎念: 2024-09-29](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-29/) 
 
-- 🧑‍🏫 [碎碎念: 2024-09-23](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-23/) 
+- 🧑‍🏫 [碎碎念: 2024-09-24](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-24/) 
 
-- 🤩 [碎碎念: 2024-10-05](https://buasis.eu.org/2024/10/05/sui-sui-nian-2024-10-05/) 
+- 🤩 [碎碎念: 2024-09-23](https://buasis.eu.org/2024/10/07/sui-sui-nian-2024-09-23/) 
 
-- 😺 [碎碎念: 2024-10-03 喝上了芋泥啵啵奶绿](https://buasis.eu.org/2024/10/03/sui-sui-nian-2024-10-03-he-shang-liao-yu-ni-bo-bo-nai-lu/) 
+- 😺 [碎碎念: 2024-10-05](https://buasis.eu.org/2024/10/05/sui-sui-nian-2024-10-05/) 
 
-- 🐲 [碎碎念: 2024-10-03 愿世界永无战事](https://buasis.eu.org/2024/10/02/sui-sui-nian-2024-10-03-yuan-shi-jie-yong-wu-zhan-shi/) 
+- 🐲 [碎碎念: 2024-10-03 喝上了芋泥啵啵奶绿](https://buasis.eu.org/2024/10/03/sui-sui-nian-2024-10-03-he-shang-liao-yu-ni-bo-bo-nai-lu/) 
 
-- 🦆 [碎碎念: 2024-09-15](https://buasis.eu.org/2024/09/15/sui-sui-nian-2024-09-15/) 
+- 🦆 [碎碎念: 2024-10-03 愿世界永无战事](https://buasis.eu.org/2024/10/02/sui-sui-nian-2024-10-03-yuan-shi-jie-yong-wu-zhan-shi/) 
 
-- 🎉 [碎碎念: 2024-09-01](https://buasis.eu.org/2024/09/06/sui-sui-nian-2024-09-01/) 
+- 🎉 [碎碎念: 2024-09-15](https://buasis.eu.org/2024/09/15/sui-sui-nian-2024-09-15/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
