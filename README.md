@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [学校有人跳楼死了](https://buasis.eu.org/2025/03/18/xue-xiao-you-ren-tiao-lou-si-liao/) 
+- 👹 [碎碎念: 2025-03-09-2](https://buasis.eu.org/2025/03/08/sui-sui-nian-2025-03-09-2/) 
 
-- 🕯 [碎碎念: 2025-03-09-2](https://buasis.eu.org/2025/03/08/sui-sui-nian-2025-03-09-2/) 
+- 🕯 [碎碎念: 2025-03-09](https://buasis.eu.org/2025/03/08/sui-sui-nian-2025-03-09/) 
 
-- 🧑‍🏫 [碎碎念: 2025-03-09](https://buasis.eu.org/2025/03/08/sui-sui-nian-2025-03-09/) 
+- 🧑‍🏫 [碎碎念: 	我太懒了，连个年终总结都没写](https://buasis.eu.org/2025/02/08/sui-sui-nian-wo-tai-lan-liao-lian-ge-nian-zhong-zong-jie-du-mei-xie/) 
 
-- 🤩 [碎碎念: 	我太懒了，连个年终总结都没写](https://buasis.eu.org/2025/02/08/sui-sui-nian-wo-tai-lan-liao-lian-ge-nian-zhong-zong-jie-du-mei-xie/) 
+- 🤩 [Posts: Python爬虫 通用的小说下载器](https://buasis.eu.org/2025/02/03/posts-python-pa-chong-tong-yong-de-xiao-shuo-xia-zai-qi/) 
 
-- 😺 [Posts: Python爬虫 通用的小说下载器](https://buasis.eu.org/2025/02/03/posts-python-pa-chong-tong-yong-de-xiao-shuo-xia-zai-qi/) 
+- 😺 [Posts: 一个爬取菜鸟教程网站教程，并保存为本地 MarkDown 文件（Python）](https://buasis.eu.org/2024/12/01/posts-yi-ge-pa-qu-cai-niao-jiao-cheng-wang-zhan-jiao-cheng-bing-bao-cun-wei-ben-di-markdown-wen-jian-python/) 
 
-- 🐲 [Posts: 一个爬取菜鸟教程网站教程，并保存为本地 MarkDown 文件（Python）](https://buasis.eu.org/2024/12/01/posts-yi-ge-pa-qu-cai-niao-jiao-cheng-wang-zhan-jiao-cheng-bing-bao-cun-wei-ben-di-markdown-wen-jian-python/) 
+- 🐲 [便笺: VBS 消息轰炸](https://buasis.eu.org/2024/11/30/bian-jian-vbs-xiao-xi-hong-zha/) 
 
-- 🦆 [便笺: VBS 消息轰炸](https://buasis.eu.org/2024/11/30/bian-jian-vbs-xiao-xi-hong-zha/) 
+- 🦆 [便笺: Javascript 笔记 a ? b : c](https://buasis.eu.org/2024/11/30/bian-jian-javascript-bi-ji/) 
 
-- 🎉 [便笺: Javascript 笔记 a ? b : c](https://buasis.eu.org/2024/11/30/bian-jian-javascript-bi-ji/) 
+- 🎉 [碎碎念: 2024-11-17](https://buasis.eu.org/2024/11/16/sui-sui-nian-2024-11-17/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
