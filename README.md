@@ -4,12 +4,12 @@ I am a Chinese high school student.
 
 >Currently familiar but not proficient in the following skills(目前熟悉但完全不精通于以下技能):
 >
->Python,HTML,JavaScript,CSS
+>Python,HTML,JavaScript,CSS,Node
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=god-2077&label=Profile%20views&color=0e75b6&style=flat" alt="god-2077" /> </p>
 
-- 📝 My blog is [https://buasis.eu.org](https://buasis.eu.org)
+- 📝 My blog is [blog.ksable.top](https://blog.ksable.top/)
 
 - 📫 How to reach me **kissablecho@qq.com**
 
