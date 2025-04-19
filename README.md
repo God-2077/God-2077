@@ -25,7 +25,7 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 <!-- BLOG-POST-LIST:START -->
 - 👹 [碎碎念: 2025-04-13](https://blog.ksable.top/2025/04/12/sui-sui-nian-2025-04-13/) 
 
-- 🕯 [我买新域名啦](https://blog.ksable.top/2025/04/06/wo-mai-xin-yu-ming-la/) 
+- 🕯 [碎碎念: 我买新域名啦](https://blog.ksable.top/2025/04/06/sui-sui-nian-wo-mai-xin-yu-ming-la/) 
 
 - 🧑‍🏫 [碎碎念: 2025-03-09-2](https://blog.ksable.top/2025/03/08/sui-sui-nian-2025-03-09-2/) 
 
