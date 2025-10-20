@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 请原谅内向的我](https://blog.ksable.top/2025/10/09/sui-sui-nian-qing-yuan-liang-nei-xiang-de-wo/) 
+- 👹 [碎碎念: 2025-10-19](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-19/) 
 
-- 🕯 [Posts: 开发了个“笔记管理平台”](https://blog.ksable.top/2025/09/24/posts-kai-fa-liao-ge-bi-ji-guan-li-ping-tai/) 
+- 🕯 [碎碎念: 2025-10-17 &lpar;补&rpar;](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-17-bu/) 
 
-- 🧑‍🏫 [碎碎念: 2025-09-23](https://blog.ksable.top/2025/09/23/sui-sui-nian-2025-09-23/) 
+- 🧑‍🏫 [碎碎念: 2025-10-13 &lpar;补、密码保护&rpar;](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-13-bu-mi-ma-bao-hu/) 
 
-- 🤩 [碎碎念: 完美移植 PureSuck 主题](https://blog.ksable.top/2025/08/30/sui-sui-nian-wan-mei-yi-zhi-puresuck-zhu-ti/) 
+- 🤩 [碎碎念: 请原谅内向的我](https://blog.ksable.top/2025/10/09/sui-sui-nian-qing-yuan-liang-nei-xiang-de-wo/) 
 
-- 😺 [便笺: Readest 私有化部署笔记](https://blog.ksable.top/2025/07/28/bian-jian-readest-si-you-hua-bu-shu-bi-ji/) 
+- 😺 [Posts: 开发了个“笔记管理平台”](https://blog.ksable.top/2025/09/24/posts-kai-fa-liao-ge-bi-ji-guan-li-ping-tai/) 
 
-- 🐲 [愿那个世界充满美好，她不再痛苦不再难受](https://blog.ksable.top/2025/07/22/yuan-na-ge-shi-jie-chong-man-mei-hao-ta-bu-zai-tong-ku-bu-zai-nan-shou/) 
+- 🐲 [碎碎念: 2025-09-23](https://blog.ksable.top/2025/09/23/sui-sui-nian-2025-09-23/) 
 
-- 🦆 [碎碎念: 2025-07-16](https://blog.ksable.top/2025/07/15/sui-sui-nian-2025-07-19/) 
+- 🦆 [碎碎念: 完美移植 PureSuck 主题](https://blog.ksable.top/2025/08/30/sui-sui-nian-wan-mei-yi-zhi-puresuck-zhu-ti/) 
 
-- 🎉 [Posts: H 漫画网站爬虫实战](https://blog.ksable.top/2025/07/12/posts-h-man-hua-wang-zhan-pa-chong-shi-zhan/) 
+- 🎉 [便笺: Readest 私有化部署笔记](https://blog.ksable.top/2025/07/28/bian-jian-readest-si-you-hua-bu-shu-bi-ji/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
