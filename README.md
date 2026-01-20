@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 26-01-16 朋友、人际交往](https://blog.ksable.top/2026/01/16/sui-sui-nian-26-01-16-peng-you-ren-ji-jiao-wang/) 
+- 👹 [Posts: 用 Python 设置 Windows 文件默认打开程序](https://blog.ksable.top/2026/01/19/yong-python-she-zhi-windows-wen-jian-mo-ren-da-kai-cheng-xu/) 
 
-- 🕯 [碎碎念: 26-01-01 2025年，年度回顾](https://blog.ksable.top/2026/01/01/sui-sui-nian-26-01-01-2025-nian-nian-du-hui-gu/) 
+- 🕯 [碎碎念: 26-01-16 朋友、人际交往](https://blog.ksable.top/2026/01/16/sui-sui-nian-26-01-16-peng-you-ren-ji-jiao-wang/) 
 
-- 🧑‍🏫 [碎碎念: 2025-10-19](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-19/) 
+- 🧑‍🏫 [碎碎念: 26-01-01 2025年，年度回顾](https://blog.ksable.top/2026/01/01/sui-sui-nian-26-01-01-2025-nian-nian-du-hui-gu/) 
 
-- 🤩 [碎碎念: 2025-10-17 &lpar;补&rpar;](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-17-bu/) 
+- 🤩 [碎碎念: 2025-10-19](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-19/) 
 
-- 😺 [碎碎念: 2025-10-13 &lpar;补、密码保护&rpar;](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-13-bu-mi-ma-bao-hu/) 
+- 😺 [碎碎念: 2025-10-17 &lpar;补&rpar;](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-17-bu/) 
 
-- 🐲 [碎碎念: 请原谅内向的我](https://blog.ksable.top/2025/10/09/sui-sui-nian-qing-yuan-liang-nei-xiang-de-wo/) 
+- 🐲 [碎碎念: 2025-10-13 &lpar;补、密码保护&rpar;](https://blog.ksable.top/2025/10/19/sui-sui-nian-2025-10-13-bu-mi-ma-bao-hu/) 
 
-- 🦆 [Posts: 开发了个“笔记管理平台”](https://blog.ksable.top/2025/09/24/posts-kai-fa-liao-ge-bi-ji-guan-li-ping-tai/) 
+- 🦆 [碎碎念: 请原谅内向的我](https://blog.ksable.top/2025/10/09/sui-sui-nian-qing-yuan-liang-nei-xiang-de-wo/) 
 
-- 🎉 [碎碎念: 2025-09-23](https://blog.ksable.top/2025/09/23/sui-sui-nian-2025-09-23/) 
+- 🎉 [Posts: 开发了个“笔记管理平台”](https://blog.ksable.top/2025/09/24/posts-kai-fa-liao-ge-bi-ji-guan-li-ping-tai/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
