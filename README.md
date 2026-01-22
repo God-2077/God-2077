@@ -23,7 +23,7 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [Posts: 用 Python 设置 Windows 文件默认打开程序](https://blog.ksable.top/2026/01/19/yong-python-she-zhi-windows-wen-jian-mo-ren-da-kai-cheng-xu/) 
+- 👹 [Posts: 用 Python 设置 Windows 文件默认打开程序](https://blog.ksable.top/2026/01/19/posts-yong-python-she-zhi-windows-wen-jian-mo-ren-da-kai-cheng-xu/) 
 
 - 🕯 [碎碎念: 26-01-16 朋友、人际交往](https://blog.ksable.top/2026/01/16/sui-sui-nian-26-01-16-peng-you-ren-ji-jiao-wang/) 
 
