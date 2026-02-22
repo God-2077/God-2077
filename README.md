@@ -42,6 +42,8 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 
 ## GitHub Profile Card
 
+<!-- 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://god-2077.buasis.eu.org/github-contribution-grid-snake/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://god-2077.buasis.eu.org/github-contribution-grid-snake/github-snake.svg" />
@@ -49,6 +51,11 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 </picture>
 
 [![](https://god-2077.buasis.eu.org/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/God-2077)
+
+ -->
+ 
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/God-2077)
+<!-- 
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/God-2077) [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/God-2077)
 [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/God-2077) [![](https://god-2077.buasis.eu.org/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/God-2077)
+ -->
