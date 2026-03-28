@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/God-2077/God-2077/main/profile-summary-card-output/algolia/4-productive-time.svg)
+```
+
+    
