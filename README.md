@@ -23,21 +23,21 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 26-08-28](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-08-28) 
+- 👹 [碎碎念: 26-08-29](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-08-29) 
 
-- 🕯 [便笺: Fun-ASR 本地部署与批量推理](https://blog.ksable.top/post/note/%E4%BE%BF%E7%AC%BA-fun-asr-%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E4%B8%8E%E6%89%B9%E9%87%8F%E6%8E%A8%E7%90%86) 
+- 🕯 [碎碎念: 26-08-28](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-08-28) 
 
-- 🧑‍🏫 [碎碎念: 26-07-21](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-07-21) 
+- 🧑‍🏫 [便笺: Fun-ASR 本地部署与批量推理](https://blog.ksable.top/post/note/%E4%BE%BF%E7%AC%BA-fun-asr-%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E4%B8%8E%E6%89%B9%E9%87%8F%E6%8E%A8%E7%90%86) 
 
-- 🤩 [便笺: 科目一 · 道路交通安全违法记分笔记](https://blog.ksable.top/post/note/%E4%BE%BF%E7%AC%BA-%E7%A7%91%E7%9B%AE%E4%B8%80-%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E7%AC%94%E8%AE%B0) 
+- 🤩 [碎碎念: 26-07-21](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-07-21) 
 
-- 😺 [🔒 碎碎念-26-07-10 恶梦](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-07-10-%E6%81%B6%E6%A2%A6) 
+- 😺 [便笺: 科目一 · 道路交通安全违法记分笔记](https://blog.ksable.top/post/note/%E4%BE%BF%E7%AC%BA-%E7%A7%91%E7%9B%AE%E4%B8%80-%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E7%AC%94%E8%AE%B0) 
 
-- 🐲 [Posts: Wallpaper Engine 壁纸推荐 - 二次元随机壁纸](https://blog.ksable.top/post/post/posts-wallpaper-engine-%E5%A3%81%E7%BA%B8%E6%8E%A8%E8%8D%90-%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9A%8F%E6%9C%BA%E5%A3%81%E7%BA%B8) 
+- 🐲 [🔒 碎碎念-26-07-10 恶梦](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-07-10-%E6%81%B6%E6%A2%A6) 
 
-- 🦆 [碎碎念: 26-06-14](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-06-14) 
+- 🦆 [Posts: Wallpaper Engine 壁纸推荐 - 二次元随机壁纸](https://blog.ksable.top/post/post/posts-wallpaper-engine-%E5%A3%81%E7%BA%B8%E6%8E%A8%E8%8D%90-%E4%BA%8C%E6%AC%A1%E5%85%83%E9%9A%8F%E6%9C%BA%E5%A3%81%E7%BA%B8) 
 
-- 🎉 [碎碎念: 26-06-06](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-06-06) 
+- 🎉 [碎碎念: 26-06-14](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-26-06-14) 
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Profile Card
