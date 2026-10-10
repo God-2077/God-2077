@@ -23,7 +23,7 @@ Mail: [kissablecho@qq.com](mailto:kissablecho@qq.com)
 ## 📋 Latest blog post
 
 <!-- BLOG-POST-LIST:START -->
-- 👹 [碎碎念: 💩🐎的运动世界](https://blog.ksable.top/post/noindex/%E6%B2%A1%E6%9C%A8%E7%9A%84%E8%BF%90%E5%8A%A8%E6%A0%A1%E5%9B%AD) 
+- 👹 [碎碎念: 💩🐎的运动世界](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-%E6%AD%BB%E5%A6%88%E7%9A%84%E8%BF%90%E5%8A%A8%E6%A0%A1%E5%9B%AD) 
 
 - 🕯 [碎碎念: 粉红色的小裙子哟](https://blog.ksable.top/post/ssn/%E7%A2%8E%E7%A2%8E%E5%BF%B5-%E7%B2%89%E7%BA%A2%E8%89%B2%E7%9A%84%E5%B0%8F%E8%A3%99%E5%AD%90%E5%93%9F) 
 
